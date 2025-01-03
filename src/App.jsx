@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Hello github</h1>
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus nobis ratione architecto alias accusamus nihil perspiciatis voluptates tempora, a beatae!</p>
     </>
   )
 }
